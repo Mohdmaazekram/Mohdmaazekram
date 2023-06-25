@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohdmaazekram](https://github.com/Mohdmaazekram)
 
-- 💬 Ask me about **Python,Data Analyst,My-SQL,MS-Excel,Power-BI**
+- 💬 Ask me about **Python,Data Analyst,My-SQL,MS-Excel,Power-BI,Tableau,Machine Learning**
 
 - 📫 How to reach me **mohdmaazekram@gmail.com**
 
