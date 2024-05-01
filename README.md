@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohdmaazekram](https://github.com/Mohdmaazekram?tab=repositories)
 
-- 💬 Ask me about **Python,Data Analytics,My-SQL,MS-Excel,Power-BI,Tableau,Machine Learning,Selenium**
+- 💬 Ask me about **Python,SQL,GTM,Excel,Looker Studio,Web Scraping,Big Query,GCP and its Services,Selenium**
 
 - 📫 How to reach me **mohdmaazekram@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Mohdmaazekram/Maaz-Profile-Document](https://github.com/Mohdmaazekram/Maaz-Profile-Document)
+- 📄 Know about my experiences [[https://github.com/Mohdmaazekram/Maaz-Profile-Document](https://www.linkedin.com/in/mohdmaazekram/)](https://www.linkedin.com/in/mohdmaazekram/)
 
 
 <h3 align="left">Connect with me:</h3>
