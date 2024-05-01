@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mohdmaazekram@gmail.com**
 
-- 📄 Know about my experiences [[https://github.com/Mohdmaazekram/Maaz-Profile-Document](https://www.linkedin.com/in/mohdmaazekram/)](https://www.linkedin.com/in/mohdmaazekram/)
+- 📄 Know about my experiences https://www.linkedin.com/in/mohdmaazekram/
 
 
 <h3 align="left">Connect with me:</h3>
