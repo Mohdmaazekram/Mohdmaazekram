@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif)](https://mohdmaazekram.io) -->
 <h1 align="center">Hola 👋, I'm Mohd Maaz Ekram</h1>
-<h3 align="center">I am a Data Analytics By Profession, Currently Working on Multiple Projects Related to Data Analytics. In My Free Time I Can Learn Market Demanded Tools to Upgrade MySelf </h3>
+<h3 align="center">I am a Data Analyst By Profession, Currently Working as a Data Analyst at Candere By Kalyan jewellers. In My Free Time I Can Learn Market Demanded Tools to Upgrade MySelf </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdmaazekram&label=Profile%20views&color=0e75b6&style=flat" alt="mohdmaazekram" /> </p>
