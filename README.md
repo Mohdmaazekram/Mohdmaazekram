@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohdmaazekram](https://github.com/Mohdmaazekram?tab=repositories)
 
-- 💬 Ask me about **Python,SQL,GTM,Excel,Looker Studio,Web Scraping,Big Query,GCP and its Services,Selenium**
+- 💬 Ask me about **Python,SQL,GTM,Excel,Looker Studio,Web Scraping,Big Query,GCP and its Services,Selenium,Power BI,Gumloop**
 
 - 📫 How to reach me **mohdmaazekram@gmail.com**
 
